@@ -1,18 +1,23 @@
-##Dining with Josh Description
-#####Dining with Josh allows a user to select from a variety of Josh approved food items to order online!
+Description
 
-##The Problem
-#####There are an overwhelming number of options to choose from when ordering food.
+Dining with Josh allows a user to select from a variety of Josh approved food items to order online!
 
-##How does Dining with Josh solve this problem?
-#####Dining with Josh gives the indecisive customer more direction when ordering food.
+The Problem
 
-##Tech used
-#####Bootstrap, JavaScript, CSS, HTML, Cypress.io
+There are an overwhelming number of options to choose from when ordering food.
 
-##Instructions
-#####1. Fork and clone repo to local directory
-#####2. $ cd into dining-with-josh
+Resolution?
 
-#####Dining with Josh Firebase Deployed Link
-#####https://dining-with-josh.firebaseapp.com/index.html
+Dining with Josh gives the indecisive customer more direction when ordering food.
+
+Tech used
+
+Bootstrap, JavaScript, CSS, HTML, Cypress.io
+
+Instructions
+
+1. Fork and clone repo to local directory
+2. $ cd into dining-with-josh
+
+Dining with Josh Firebase Deployed Link
+https://dining-with-josh.firebaseapp.com/index.html
