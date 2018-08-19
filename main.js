@@ -4,7 +4,6 @@
 })()
 
 function clickButton(event) {
-  // console.log(button);
   document.location.href = '/app.html';
 };
 

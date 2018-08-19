@@ -1,20 +1,18 @@
-## Galvanize Web App
+##Dining with Josh Description
+Dining with Josh allows a user to select from a variety of Josh approved food items to order online!
 
-For this project, you will build a light application that reads data, has end-to-end testing, and integrates with an API. The topic is up to you, so pick a project that speaks to your interests.
+##The Problem
+There are an overwhelming number of options to choose from when ordering food.
 
-### Instructions
+##How does Dining with Josh solve this problem?
+Dining with Josh gives the indecisive customer more direction when ordering food.
 
-* You should have a brochure page that has information about what your app does and who it's for.
-* Your app should make a GET request to an external API
-* Your app should also pull from a second source of data. This can be another API, another endpoint on the same API, or from a local `.json` file
-* You need to write some data transformation that combines the two objects in a meaningful way
-* The resulting data should be dynamically added to the page
-* You should allow a user to change the API end point. For example, get data about a specific movie, weather for a specific zip code, etc
-* Your app should have end-to-end tests
-* Deploy your app
+##Tech used
+Bootstrap, JavaScript, CSS, HTML, Cypress.io
 
----
+##Instructions
+1. Fork and clone repo to local directory
+2. $ cd into dining-with-josh
 
-### Submission
-
-Add a link to your code [here](#), and your deployed site [here](https://ndprojectjosh.firebaseapp.com/)
+Dining with Josh Firebase Deployed Link
+https://dining-with-josh.firebaseapp.com/index.html
