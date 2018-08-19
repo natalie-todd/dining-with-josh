@@ -21,3 +21,5 @@ Instructions
 
 Dining with Josh Firebase Deployed Link
 https://dining-with-josh.firebaseapp.com/index.html
+
+Styled Version of: https://github.com/natalie-todd/galvanize-frontend-app
