@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "pizzaType": "Cheese",
+            "pizzaImg": "http://fastlanepizza.com/content/images/thumbs/0000296_cheese-pizza_300.png"
+        },
+        {
+            "id": 2,
+            "pizzaType": "Spinach",
+            "pizzaImg": "https://greenvalleykitchen.com/wp-content/uploads/2015/10/Flat-Bread-Pizza-with-spinach-and-goat-cheese-1.jpg"
+        },
+        {
+            "id": 3,
+            "pizzaType": "Mushroom",
+            "pizzaImg": "https://www.seriouseats.com/recipes/images/2015/07/20150702-mushroom-truffle-pizza-1.jpg"
+        },
+        {
+            "id": 4,
+            "pizzaType": "Artichoke",
+            "pizzaImg": "https://www.tasteofhome.com/wp-content/uploads/2017/10/exps175485_TH153341B11_24_1b-696x696.jpg"
+        },
+        {
+            "id": 6,
+            "pizzaType": "Veggie",
+            "catImg": "https://images-gmi-pmc.edge-generalmills.com/32fb2446-1efc-434c-a053-7dabe8d963be.jpg"
+        },
+        {
+            "id": 7,
+            "pizzaType": "Garlic",
+            "catImg": "http://www.recipe4living.com/assets/itemimages/400/400/3/default_6ebeb93c06ed477504b654cc67042f58_white%20pizza.jpg"
+        }
+    ]
+}

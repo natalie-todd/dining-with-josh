@@ -1,0 +1,83 @@
+h2 {
+    font-family: 'Monda', sans-serif;
+}
+.row {
+    color: white;
+    background-color:black;
+     background: rgba(10, 0, 0, 0.459);
+}
+.nav {
+    background-color: #000;
+}
+.textDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.jumbotron {
+    background:url('josh.jpg')top center;
+    background-size: cover;
+    padding-bottom:10em;
+}
+
+.rowDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+@media (max-width:767px) 
+{
+    .jumbotron {
+        background: #000;
+    }
+    .nav {
+        background-color: white;
+    }
+}
+
+#cart {
+    width: 5vw;
+    height: 5vh;
+}
+
+#indexHeader {
+background-color: rgb(231, 0, 0);
+color: white;
+padding: 15px;
+font-family: 'Anton', sans-serif;
+display: flex;
+justify-content: space-between;
+}
+
+#textAbout {
+    font-family: 'Allerta', sans-serif;
+}
+
+.row, .col {
+    margin: 100px;
+}
+
+#bagContainer {
+    display: flex;
+}
+
+#container {
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center; 
+width: 105%;
+padding-left: 20px;
+}
+
+#josh {
+    margin: 90px;
+}
+
+#totalId {
+    background-color: #1A16ED;
+    color: white;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
