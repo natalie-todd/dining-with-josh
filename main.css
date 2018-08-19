@@ -28,6 +28,10 @@ h2 {
 }
 @media (max-width:767px) 
 {
+    .row {
+        display: flex;
+        justify-content: center;
+    }
     .jumbotron {
         background: #000;
     }
